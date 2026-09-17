@@ -18,7 +18,9 @@ A continuación, se presenta un cuadro comparativo con las aplicaciones relevada
 
 
 **Definicion de publico objetivo**
-El público objetivo de la aplicacion al que se apunta son mujeres y hombres entre 18 y 35 años, que viven en Montevideo. Su motivacion principal es conocer personas y estar enterados de los eventos cercanos a donde se encuentran con facilidad. El nivel socioeconomico de los usarios es medio, buscando que sea.
+
+El público objetivo de la aplicación son hombres y mujeres de entre 18 y 35 años, residentes en Montevideo. Su motivación principal es conocer personas nuevas y mantenerse informados con facilidad sobre eventos y actividades cercanas a su ubicación. Pertenecen a un nivel socioeconómico medio, y buscan una alternativa que combine ambos intereses: vincularse socialmente y descubrir planes en una sola plataforma, evitando tener que recurrir a múltiples aplicaciones para lograrlo.
+
  ***User Persona**
  
 
