@@ -23,8 +23,15 @@ El público objetivo de la aplicación son hombres y mujeres de entre 18 y 35 a�
 
  ***User Persona**
  
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/02586b99-4efb-4c40-bffa-a7f240b299fe" />
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/5301acfc-02f8-416a-a225-7d47e7c9132c" />
+
+
+**Encuestas**
 
 
 
-**Benchmark**
+**Tareas y división**
+https://docs.google.com/spreadsheets/d/1v_J3Z3RBXh6uKg1U1-uZZM50DcCcVfHRfTqluqlZu2I/edit?usp=sharing 
+
 
